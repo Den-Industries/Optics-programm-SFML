@@ -1,7 +1,7 @@
 # Optics-programm-SFML
 This is programm for simulation of optics stuff on SFML.
 
-I made this programm for fisics in the college.
+I made this programm for fisics in the college. I made it with SFML on c++.
 
 In this programm you can simulate simple optics. There is not values, so you can see all relatively.
 
